@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modern Engineering Industries</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="send_code_otp">We will send you an One Time Code on this Mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_20">+20 - </string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_otp_sent">Enter the OTP sent to</string>
+    <string name="verify">Verify</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the OTP ?</string>
+    <string name="resend_otp">RESEND OTP.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello">Hello, </string>
+    <string name="welcomeToOurApp">Welcome to our App</string>
+    <string name="Arabic">Arabic</string>
+    <string name="English">English</string>
+    <string name="Return_Page">Return</string>
+    <string name="location">Our Location</string>
+    <string name="contact">Contact Us</string>
+    <string name="about">About Us</string>
+    <string name="language">Change Language</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="signout">Sign out</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="messageLogout">Are you sure you want to Logout?</string>
+    <string name="titleLogout">Logout?</string>
+
+    <string name="chatUs">Chat Us</string>
+
+    <!--    -->
+
+    <!--    Database Firebase -->
+    <string name="databaseMachine">Machine</string>
+    <string name="databaseUsers">Users</string>
+
+    <!--  First Node-->
+    <string name="filing">Filing</string>
+    <string name="closingCapping">Closing Capping</string>
+    <string name="packing">Packing</string>
+    <string name="handlingProcess">Handling Process</string>
+
+    <!--  First Second Node if click Filing-->
+    <string name="liquids">Liquids</string>
+    <string name="powder">Powder</string>
+    <string name="granular">Granular</string>
+
+    <!--   First Third Node if click Liquids-->
+    <string name="halfAutomatic">Half Automatic</string>
+    <string name="automatic">Automatic</string>
+
+    <!--   First Forth Node if click Half Automatic or Automatic-->
+    <string name="plasticBottle">Plastic Bottle</string>
+    <string name="glassBottle">Glass Bottle</string>
+    <string name="cans">Cans</string>
+    <string name="pauch">Pauch</string>
+
+    <!--   First Fifth Node if click Pauch-->
+    <string name="side3">3 Side</string>
+    <string name="side4">4 Side</string>
+    <string name="dueSide">Due Side</string>
+
+    <!--  Second Second Node if click Powder -->
+    <!--    <string name="cans">Cans</string>-->
+    <string name="readyMadeBag">Ready Made Bag</string>
+    <!--    <string name="pauch">Pauch</string>-->
+
+    <!--  Second Third Node if click Granular -->
+    because it's found in another place
+    <!--    <string name="cans">Cans</string>-->
+    <!--    <string name="readyMadeBag">Ready Made Bag</string>-->
+    <!--    <string name="pauch">Pauch</string>-->
+
+    <!--  Second Node if click Closing Capping -->
+    <string name="preaCap">Prea Cap</string>
+    <string name="scrawCap">Scraw Cap</string>
+    <string name="pilferProdCap">Pilfer Prod Cap</string>
+
+    <!--  Third Node if click Packing -->
+    <string name="shrink">Shrink</string>
+    <string name="envelopeSide">Envelope Side</string>
+    <string name="wrapping">Wrapping</string>
+    <string name="cartooning">Cartooning</string>
+
+    <!--  Forth Node if click Handling Process -->
+    <string name="turnTable">Turn Table</string>
+    <string name="conveyors">Conveyors</string>
+    <string name="bolts">Bolts</string>
+    <string name="elevator">Elevator</string>
+
+
+    <string name="chooseTheMachineYouWant">Choose the machine you want ?</string>
+    <string name="sendUsNow">Send Us Now</string>
+    <string name="iChooseThisMachine">I choose this machine,</string>
+    <string name="myDetailsIs">My details is,</string>
+    <string name="selectAnItemPlease">Select an item please!</string>
+    <string name="selectAnItem">Select an Item</string>
+    <string name="selectNextItem">Select Next Item</string>
+    <string name="chooseAnEmail">Choose an Email client :</string>
+    <string name="pleaseInstallWhatsapp">Please install whatsapp first.</string>
+
+</resources>

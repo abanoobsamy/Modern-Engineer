@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250049167358",
+    "firebase_url": "https://modern-engineering-indus-8f716-default-rtdb.firebaseio.com",
+    "project_id": "modern-engineering-indus-8f716",
+    "storage_bucket": "modern-engineering-indus-8f716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250049167358:android:deae11f6b6c5da77e48aaf",
+        "android_client_info": {
+          "package_name": "com.eng_sherif.modern_engineering_industries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250049167358-s8mfh49s50j8lvcobhin5kas4c1siks9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eng_sherif.modern_engineering_industries",
+            "certificate_hash": "fb617b60b604cf2d9d942c57074f1deccf5c883b"
+          }
+        },
+        {
+          "client_id": "250049167358-l83vk8qcunvr490pesoodvim35mvdjj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhxosTGx0L-K1Pq3k9IvwOcwU9jE0IaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250049167358-l83vk8qcunvr490pesoodvim35mvdjj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
